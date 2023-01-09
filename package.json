@@ -4,7 +4,7 @@
     "prod": "rm -r docs & npx @11ty/eleventy --output=docs"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.2"
   },
   "private": true
